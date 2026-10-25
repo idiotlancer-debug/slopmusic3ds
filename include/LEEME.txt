@@ -1,0 +1,1 @@
+minimp3.h se descarga solo en Docker/GitHub Actions; en local, ponlo aqui.
